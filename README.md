@@ -16,14 +16,8 @@
 
 <!--- TÍTULO DO PROJETO --->
 <h4 align="center">
-  Utilize um autoclicker de uma maneira simplificada.
+  AutoClicker fácil e rápido de usar.
 </h4>
-<!--- IMAGEM PRINCIPAL DO PROJETO --->
-<h1 align="center">
-  <a href="https://podcastr-djonibourscheid.vercel.app">
-    <img alt="Podcastr preview" title="Open podcastr preview" src=".github/podcastr-preview.svg" width="700" />
-  </a>
-</h1>
 
 ## 🔥 Preview
 
